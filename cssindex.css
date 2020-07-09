@@ -150,13 +150,13 @@ a:active {
 	}
 	.social ul li {
 		
-		display: flex;
+		display: none;
 		float: left;
 		
 	}
 	
 	.sociallogo ul li {
-		display: list-item;
+		display: flex;
 		float: right;
 	}
 }
