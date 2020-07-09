@@ -150,7 +150,7 @@ a:active {
 	}
 	.social ul li {
 		
-		display: none;
+		display: initial;
 		float: left;
 		
 	}
