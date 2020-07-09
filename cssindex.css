@@ -154,7 +154,7 @@ a:active {
 	}
 	
 	.sociallogo ul li {
-		display: inline-block;
+		display: inline-flex;
 		float: right;
 		padding: 5px !important;
 	}
