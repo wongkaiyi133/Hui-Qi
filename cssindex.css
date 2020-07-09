@@ -144,6 +144,17 @@ a:active {
 
 }
 
+@media (max-width:500px) {
+	.social ul li {
+		display: flex;
+	
+	}
+	
+	.sociallogo ul li {
+		display: flex;
+		float: right;
+	}
+}
 
 /*	
 @media (min-width:576px) and (max-width:674px) {
