@@ -139,7 +139,7 @@ a:active {
 .sociallogo ul li {
   display: inline-flex;
 	float: right;
-  padding-right: 5px !important;
+  padding-right: 10px !important;
 
 
 }
