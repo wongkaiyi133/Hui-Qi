@@ -149,10 +149,7 @@ a:active {
 		height: 100px;
 	}
 	.social ul li {
-		
-		display: list-item;
-		list-style-type: none;
-		float: left;
+		font-size: 10px;
 		
 	}
 	
