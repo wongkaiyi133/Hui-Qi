@@ -127,9 +127,9 @@ a:active {
 }
 
 .footer .col ul {
-  list-style-type: none;
-  margin: 10px;
-  padding: 10px;
+ 
+  margin: 5px;
+  padding: 5px;
 }
 .social ul li {
   display: inline-block;
@@ -146,7 +146,7 @@ a:active {
 
 @media (max-width:360px) {
 	.footer1 {
-		height: 100px;
+		height: 50px;
 	}
 	.social ul li {
 		font-size: 11px;
