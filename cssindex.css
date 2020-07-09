@@ -144,13 +144,13 @@ a:active {
 
 }
 
-@media (max-width:500px) {
+@media (max-width:360px) {
 	.footer1 {
 		height: 100px;
 	}
 	.social ul li {
 		
-		display: inline-block;
+		display: flex;
 		float: left;
 		
 	}
