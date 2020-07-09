@@ -149,7 +149,7 @@ a:active {
 		height: 100px;
 	}
 	.social ul li {
-		font-size: 10px;
+		font-size: 11px;
 		
 	}
 	
@@ -157,6 +157,10 @@ a:active {
 		display: flex;
 		float: right;
 	}
+	
+	.sociallogossmall {
+		height: 25px;
+		width: 25px;
 }
 
 /*	
