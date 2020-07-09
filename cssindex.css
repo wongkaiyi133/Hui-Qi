@@ -150,7 +150,8 @@ a:active {
 	}
 	.social ul li {
 		display: flex;
-	
+		margin: 0px;
+		padding: 0px;
 	}
 	
 	.sociallogo ul li {
