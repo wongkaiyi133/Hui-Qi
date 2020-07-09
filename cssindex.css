@@ -146,7 +146,7 @@ a:active {
 
 @media (max-width:360px) {
 	.footer1 {
-		height: 50px;
+		height: 60px;
 	}
 	.social ul li {
 		font-size: 11px;
@@ -157,6 +157,7 @@ a:active {
 		display: inline-flex;
 		float: right;
 		padding-right: 5px !important;
+		padding-bottom:10px;
 	}
 	
 	.sociallogossmall {
