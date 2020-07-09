@@ -149,6 +149,7 @@ a:active {
 		height: 100px;
 	}
 	.social ul li {
+		height:100px;
 		display: flex;
 		margin: 0px;
 		padding: 0px;
